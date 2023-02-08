@@ -23,8 +23,10 @@ cmd({
     async(Void, citel,text) => {
         let zx = text.length;
         if (zx < 30) {
-            let {data} = await axios.get(`http://api.brainshop.ai/get?bid=167991&key=aozpOoNOy3dfLgmB&uid=[${citel.sender.split("@")[0]}]&msg=[${text}]`);
-            return citel.reply(data.cnt);  
+            //let {data} = await axios.get(`http://api.brainshop.ai/get?bid=167991&key=aozpOoNOy3dfLgmB&uid=[${citel.sender.split("@")[0]}]&msg=[${text}]`);
+            let {data} = await axios.get(`https://openairestapi.vercel.app/message?msg=${text}&api=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`);
+            return citel.reply(data.message);  
+
         }
         if (!text) return citel.reply(`Hey there! ${citel.pushName}. How are you doing these days?`);
         const { Configuration, OpenAIApi } = require("openai");
