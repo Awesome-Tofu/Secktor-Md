@@ -55,7 +55,7 @@
        "value": "17862330930"
   },
    "SESSION_ID": {
-    "description": "Please put your SESSION_ID here,if you don't have visit https://secktorbot.herokuapp.com/session"
+    "description": "Please put your SESSION_ID here,if you don't have visit https://secktorbot.herokuapp.com/session",
       "value": "Secktor;;;BethyBoycott"
   },
     "OPENAI_API_KEY": {
@@ -69,7 +69,7 @@
        "required" :false
   },
   "MONGODB_URI": {
-    "description": "A secret String for Mongodb Connection.(Required)"
+    "description": "A secret String for Mongodb Connection.(Required)",
       "value": "mongodb+srv://test:test@cluster0.lwofaad.mongodb.net/?retryWrites=true&w=majority"
   },
     "THEME": {
