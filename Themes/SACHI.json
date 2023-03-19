@@ -1,0 +1,55 @@
+{
+    "__JSON__": true,
+    "AUTHOR": "Tofu",
+    "LANGUAGE": "English",
+    "LANGCODE": "en",
+    "STRINGS": {
+        "updater": {
+            "UPDATE": "*Onii san, I'm already here!*",
+            "NEW_UPDATE": "*hey baka onii, dont be lazy and update me now!!*\n\n*Changes:*\n",
+            "UPDATED_LOCAL": "*Successfully Updated!*"
+        },
+        "global": {
+            "botName": " Powered by Sachi",
+            "body": "𝑊ℎ𝑎𝑡𝑠𝑎𝑝𝑝 𝐵𝑜𝑡",
+            "greet2": "Onii chan",
+            "pic1": "https://graph.org/file/8e7b6bd5e93af5d3cfd14.png",
+            "pic2": "https://graph.org/file/d0c3ba76555cd9086bd58.png",
+            "pic3": "https://graph.org/file/9fd31d9a925c258f2864c.png",
+            "pic4": "https://graph.org/file/edcffb775a59d12458df0.png",
+            "pic5": "https://graph.org/file/3553b610e483de5e16559.png",
+            "pic6": "https://graph.org/file/111fc83e16dcc81b7bc00.png",
+            "pic7": "https://graph.org/file/d6dc8b570e7654ea915bf.png",
+            "greet": "Baka!",
+            "dotbody": "Sachi",
+            "promote": "You are admin? Why do I care",
+            "pmallow": "*Hii,This is Edith*\n*An assistant of My Master.*\nMy Master is busy right now.\nKindly Leave your Message.\n\n_I will inform him about your message asap......_",
+            "pmblock": "❌ Blocked*\n\n You have been blocked for spamming.\n\n _ Powered by Edith_",
+            "pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. _You have ${checkPermit.times} warning(s)._\n\n *Powered by Edith*",
+            "permited": "Hii ${tname} Sir*\n\nNow You are permitted by my owner to pm now.\n\n *Powered by Edith",
+            "revoked": "*Hii ${tname} Sir*\n\nYour pm permit permission has been prevoked now.\n\n _Powered by Edith_",
+            "demote": "*laughs silently* your admin role is taken back, BAKA!",
+            "antlink": "Link Detected.\n*Good Bye Sir*",
+            "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and *Deploy Branch* and Bot will run for Always\n\n*Powered by Edith*",
+            "mention": "You have to mention anyone, Dumbass!",
+            "title": "Sachi",
+            "footer": "Sachi-Umino",
+            "by": "Made by: *Tofu*",
+            "chat_desc": "Options here, onii chan* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
+            "success": "Done ✓",
+            "dot": "Dont know how to use? \n type .help \n You are Idiot as always, with no brain haha",
+            "couple_male": "*I dont want to die alone,I want a female yaar*",
+            "couple_female": "*I dont want to die alone,I want my onii chan*",
+            "admin": "I dont allow you to use me unless you are not the Admin, now get lost⚠️!",
+            "botAdmin": "Onii chan, make me admin to serve you, afterall you are a Slacker❗",
+            "owner": "This command, I only allow my onii chan⚠️",
+            "group": "idiot, this command is only for group❗",
+            "private": "This command, I only allow my onii chan⚠️",
+            "bot": "𝑻𝒉𝒊𝒔 𝒇𝒆𝒂𝒕𝒖𝒓𝒆 𝒊𝒏 𝒐𝒏𝒍𝒚 𝒇𝒐𝒓 𝒕𝒉𝒆 𝒃𝒐𝒕 𝒏𝒖𝒎𝒃𝒆𝒓⚠️",
+            "wait": "𝑷𝒓𝒐𝒄𝒆𝒔𝒔𝒊𝒏𝒈 𝒚𝒐𝒖𝒓 𝒓𝒆𝒒𝒖𝒆𝒔𝒕✅"
+        },
+        "error": {
+            "text": "*Here's the error again 🙄*"
+        }
+    }
+}
